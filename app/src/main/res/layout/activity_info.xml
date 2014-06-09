@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    style="@style/Match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oak="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        style="@style/MatchWidth"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/default_padding"
+        android:paddingBottom="@dimen/default_padding">
+
+        <oak.svg.AnimatedSvgView
+            style="@style/MatchWidth"
+            android:id="@+id/animated_svg_view"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/animated_svg_view_padding"
+            android:layout_marginRight="@dimen/animated_svg_view_padding"
+            oak:oakSvgImageSizeX="1080"
+            oak:oakSvgImageSizeY="1299" />
+
+        <oak.widget.TextViewWithFont
+            style="@style/Wrap"
+            android:paddingTop="@dimen/default_padding"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:text="@string/what_is_king_of_stuff"
+            android:textSize="16sp"
+            android:textAllCaps="true"
+            oak:font="@string/default_font_bold_condensed" />
+
+        <oak.widget.TextViewWithFont
+            style="@style/Wrap"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:text="@string/about"
+            android:textSize="14sp"
+            oak:font="@string/default_font" />
+
+        <oak.widget.TextViewWithFont
+            style="@style/Wrap"
+            android:paddingTop="@dimen/default_padding"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:text="@string/how_to_play"
+            android:textSize="16sp"
+            android:textAllCaps="true"
+            oak:font="@string/default_font_bold_condensed" />
+
+        <oak.widget.TextViewWithFont
+            style="@style/Wrap"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:text="@string/how_to_play_text"
+            android:textSize="14sp"
+            oak:font="@string/default_font" />
+
+        <com.willowtreeapps.saguaro.android.widget.VersionTextView
+            android:id="@+id/version_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:paddingTop="@dimen/default_padding"
+            android:textSize="12sp"
+            android:textColor="@color/black" />
+
+        <com.willowtreeapps.saguaro.android.widget.SendFeedbackTextView
+            android:id="@+id/send_feedback_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:textColorLink="@color/black"
+            android:textSize="12sp"
+            android:textColor="@color/black" />
+
+        <com.willowtreeapps.saguaro.android.widget.AcknowledgmentsTextView
+            android:id="@+id/acknowledgments_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingLeft="@dimen/default_padding"
+            android:paddingRight="@dimen/default_padding"
+            android:textColorLink="@color/black"
+            android:textSize="12sp"
+            android:textColor="@color/black" />
+    </LinearLayout>
+</ScrollView>

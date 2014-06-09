@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    style="@style/Match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oak="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:paddingLeft="@dimen/default_padding_double"
+    android:paddingRight="@dimen/default_padding_double">
+
+    <oak.widget.TextViewWithFont
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/title_text_size"
+        oak:font="@string/default_font_bold_condensed" />
+
+    <oak.widget.TextViewWithFont
+        style="@style/Match"
+        android:id="@+id/extract"
+        android:ellipsize="end"
+        android:maxLines="5"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/white"
+        android:textSize="@dimen/description_text_size"
+        oak:font="@string/default_font" />
+</RelativeLayout>

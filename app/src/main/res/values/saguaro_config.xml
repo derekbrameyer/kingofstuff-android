@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_feedback_email">doom.on.a.fireball@gmail.com</string>
+    <string-array name="apache2_projects">
+        <item>Gson by Google</item>
+        <item>ButterKnife by Jake Wharton</item>
+        <item>Dagger by Square</item>
+        <item>OkHttp by Square</item>
+        <item>Otto by Square</item>
+        <item>OAK by WillowTree Apps</item>
+        <item>Saguaro by WillowTree Apps</item>
+    </string-array>
+</resources>

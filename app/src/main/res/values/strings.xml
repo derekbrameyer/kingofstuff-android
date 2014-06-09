@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">King of B.S.</string>
+
+    <string name="default_font_bold_condensed">Roboto-BoldCondensed.ttf</string>
+    <string name="default_font">RobotoSlab-Light.ttf</string>
+    <string name="action_bar_font">EnglishTowne.ttf</string>
+
+    <string name="info">Info</string>
+    <string name="options">Options</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="wiktionary">Wiktionary</string>
+
+    <string name="about_king_of_stuff">About King of B.S.</string>
+    <string name="what_is_king_of_stuff">What is King of B.S.?</string>
+    <string name="about">
+        King of B.S. is a game where you fabricate definitions and descriptions about random topics. This app fetches random articles from Wikipedia along with the first sentence of their description.  You can click on an article to toggle the title or description, in case you need a starting point on which to base your descriptions.  Swipe an item away to immediately fetch a new one.</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="how_to_play_text">Pick a title and start making stuff up about it!  There really are no rules or a clear winner, as long as you\'re having fun.  Some variants say that the winner is whoever can go the longest without laughing.  Others might have one person be a judge of the topic and have other people make up facts before picking one as the winner.  Feel free to invent your own variant!</string>
+</resources>
