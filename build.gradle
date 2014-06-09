@@ -34,7 +34,7 @@ def Integer buildVersionCode() {
     if (project.hasProperty('versionCode')) {
         return project.properties.versionCode.toInteger()
     } else {
-        return 1;
+        return 2;
     }
 }
 
@@ -48,7 +48,7 @@ def String buildVersionName() {
     if (project.hasProperty('version')) {
         return project.properties.version
     } else {
-        return "1.0";
+        return "1.0.1";
     }
 }
 

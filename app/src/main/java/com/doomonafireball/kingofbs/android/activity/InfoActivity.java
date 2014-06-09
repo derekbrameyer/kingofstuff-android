@@ -11,7 +11,7 @@ import android.text.style.ForegroundColorSpan;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.doomonafireball.kingofstuff.android.R;
+import com.doomonafireball.kingofbs.android.R;
 import com.doomonafireball.kingofbs.android.util.LogoGlyphs;
 
 import butterknife.ButterKnife;

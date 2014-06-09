@@ -22,7 +22,7 @@ import android.view.animation.DecelerateInterpolator;
 
 import com.doomonafireball.kingofbs.android.Datastore;
 import com.doomonafireball.kingofbs.android.MainApp;
-import com.doomonafireball.kingofstuff.android.R;
+import com.doomonafireball.kingofbs.android.R;
 import com.doomonafireball.kingofbs.android.api.WikipediaApiService;
 import com.doomonafireball.kingofbs.android.api.model.Page;
 import com.doomonafireball.kingofbs.android.otto.BusProvider;

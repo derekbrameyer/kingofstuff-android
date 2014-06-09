@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.doomonafireball.kingofstuff.android.R;
+import com.doomonafireball.kingofbs.android.R;
 
 import java.util.Random;
 

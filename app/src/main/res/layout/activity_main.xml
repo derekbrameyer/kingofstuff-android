@@ -9,35 +9,35 @@
         style="@style/Match"
         android:orientation="vertical">
 
-        <com.doomonafireball.kingofstuff.android.widget.PageContainer
+        <com.doomonafireball.kingofbs.android.widget.PageContainer
             android:id="@+id/red"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/holo_red_light" />
 
-        <com.doomonafireball.kingofstuff.android.widget.PageContainer
+        <com.doomonafireball.kingofbs.android.widget.PageContainer
             android:id="@+id/blue"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/holo_blue_light" />
 
-        <com.doomonafireball.kingofstuff.android.widget.PageContainer
+        <com.doomonafireball.kingofbs.android.widget.PageContainer
             android:id="@+id/orange"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/holo_orange_dark" />
 
-        <com.doomonafireball.kingofstuff.android.widget.PageContainer
+        <com.doomonafireball.kingofbs.android.widget.PageContainer
             android:id="@+id/purple"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/holo_purple" />
 
-        <com.doomonafireball.kingofstuff.android.widget.PageContainer
+        <com.doomonafireball.kingofbs.android.widget.PageContainer
             android:id="@+id/green"
             android:layout_width="match_parent"
             android:layout_height="0dp"
