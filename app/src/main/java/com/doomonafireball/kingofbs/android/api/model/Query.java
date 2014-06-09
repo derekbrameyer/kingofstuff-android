@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.api.model;
+package com.doomonafireball.kingofbs.android.api.model;
 
 import com.google.gson.annotations.SerializedName;
 

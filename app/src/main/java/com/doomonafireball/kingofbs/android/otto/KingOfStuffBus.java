@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.otto;
+package com.doomonafireball.kingofbs.android.otto;
 
 import android.os.Handler;
 import android.os.Looper;

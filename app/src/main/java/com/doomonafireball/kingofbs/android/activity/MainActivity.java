@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.activity;
+package com.doomonafireball.kingofbs.android.activity;
 
 
 import android.animation.ObjectAnimator;
@@ -20,16 +20,16 @@ import android.view.View;
 import android.view.Window;
 import android.view.animation.DecelerateInterpolator;
 
-import com.doomonafireball.kingofstuff.android.Datastore;
-import com.doomonafireball.kingofstuff.android.MainApp;
+import com.doomonafireball.kingofbs.android.Datastore;
+import com.doomonafireball.kingofbs.android.MainApp;
 import com.doomonafireball.kingofstuff.android.R;
-import com.doomonafireball.kingofstuff.android.api.WikipediaApiService;
-import com.doomonafireball.kingofstuff.android.api.model.Page;
-import com.doomonafireball.kingofstuff.android.otto.BusProvider;
-import com.doomonafireball.kingofstuff.android.otto.event.PageEvent;
-import com.doomonafireball.kingofstuff.android.util.LogoGlyphs;
-import com.doomonafireball.kingofstuff.android.util.SwipeDismissTouchListener;
-import com.doomonafireball.kingofstuff.android.widget.PageContainer;
+import com.doomonafireball.kingofbs.android.api.WikipediaApiService;
+import com.doomonafireball.kingofbs.android.api.model.Page;
+import com.doomonafireball.kingofbs.android.otto.BusProvider;
+import com.doomonafireball.kingofbs.android.otto.event.PageEvent;
+import com.doomonafireball.kingofbs.android.util.LogoGlyphs;
+import com.doomonafireball.kingofbs.android.util.SwipeDismissTouchListener;
+import com.doomonafireball.kingofbs.android.widget.PageContainer;
 import com.squareup.otto.Subscribe;
 
 import java.util.Collections;

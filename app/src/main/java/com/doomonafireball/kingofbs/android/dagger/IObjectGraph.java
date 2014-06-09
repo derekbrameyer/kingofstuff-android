@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.dagger;
+package com.doomonafireball.kingofbs.android.dagger;
 
 import dagger.ObjectGraph;
 

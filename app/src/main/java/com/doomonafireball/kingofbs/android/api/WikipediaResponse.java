@@ -1,6 +1,6 @@
-package com.doomonafireball.kingofstuff.android.api;
+package com.doomonafireball.kingofbs.android.api;
 
-import com.doomonafireball.kingofstuff.android.api.model.Query;
+import com.doomonafireball.kingofbs.android.api.model.Query;
 import com.google.gson.annotations.SerializedName;
 
 /**

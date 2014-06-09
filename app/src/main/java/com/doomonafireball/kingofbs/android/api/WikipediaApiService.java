@@ -1,12 +1,12 @@
-package com.doomonafireball.kingofstuff.android.api;
+package com.doomonafireball.kingofbs.android.api;
 
 import android.app.IntentService;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.doomonafireball.kingofstuff.android.api.model.Page;
-import com.doomonafireball.kingofstuff.android.otto.BusProvider;
-import com.doomonafireball.kingofstuff.android.otto.event.PageEvent;
+import com.doomonafireball.kingofbs.android.api.model.Page;
+import com.doomonafireball.kingofbs.android.otto.BusProvider;
+import com.doomonafireball.kingofbs.android.otto.event.PageEvent;
 import com.google.gson.Gson;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;

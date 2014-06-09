@@ -1,6 +1,6 @@
-package com.doomonafireball.kingofstuff.android.otto.event;
+package com.doomonafireball.kingofbs.android.otto.event;
 
-import com.doomonafireball.kingofstuff.android.api.model.Page;
+import com.doomonafireball.kingofbs.android.api.model.Page;
 
 /**
  * Created by derek on 6/5/14.

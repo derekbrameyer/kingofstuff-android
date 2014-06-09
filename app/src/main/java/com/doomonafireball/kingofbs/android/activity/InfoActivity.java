@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.activity;
+package com.doomonafireball.kingofbs.android.activity;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 import com.doomonafireball.kingofstuff.android.R;
-import com.doomonafireball.kingofstuff.android.util.LogoGlyphs;
+import com.doomonafireball.kingofbs.android.util.LogoGlyphs;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;

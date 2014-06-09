@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.otto;
+package com.doomonafireball.kingofbs.android.otto;
 
 /**
  * Created by derek on 6/5/14.

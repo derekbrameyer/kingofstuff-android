@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.util;
+package com.doomonafireball.kingofbs.android.util;
 
 /**
  * Created by derek on 6/6/14.

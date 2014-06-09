@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android;
+package com.doomonafireball.kingofbs.android;
 
 import android.content.Context;
 import android.content.SharedPreferences;

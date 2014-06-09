@@ -14,20 +14,14 @@
  * limitations under the License.
  */
 
-package com.doomonafireball.kingofstuff.android.util;
+package com.doomonafireball.kingofbs.android.util;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
-import android.animation.ValueAnimator;
-import android.app.ListActivity;
-import android.app.ListFragment;
 import android.view.MotionEvent;
 import android.view.VelocityTracker;
 import android.view.View;
 import android.view.ViewConfiguration;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.ListView;
 
 /**
  * A {@link android.view.View.OnTouchListener} that makes any {@link android.view.View} dismissable when the
@@ -79,7 +73,7 @@ public class SwipeDismissTouchListener implements View.OnTouchListener {
     private float mTranslationX;
 
     /**
-     * The callback interface used by {@link com.doomonafireball.kingofstuff.android.util.SwipeDismissTouchListener} to inform its client
+     * The callback interface used by {@link com.doomonafireball.kingofbs.android.util.SwipeDismissTouchListener} to inform its client
      * about a successful dismissal of the view for which it was created.
      */
     public interface DismissCallbacks {

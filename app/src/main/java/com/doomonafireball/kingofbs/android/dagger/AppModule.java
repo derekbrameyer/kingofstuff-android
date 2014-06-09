@@ -1,11 +1,11 @@
-package com.doomonafireball.kingofstuff.android.dagger;
+package com.doomonafireball.kingofbs.android.dagger;
 
 import android.app.Application;
 import android.content.Context;
 
-import com.doomonafireball.kingofstuff.android.Datastore;
-import com.doomonafireball.kingofstuff.android.MainApp;
-import com.doomonafireball.kingofstuff.android.activity.MainActivity;
+import com.doomonafireball.kingofbs.android.Datastore;
+import com.doomonafireball.kingofbs.android.MainApp;
+import com.doomonafireball.kingofbs.android.activity.MainActivity;
 import com.squareup.okhttp.OkHttpClient;
 
 import javax.inject.Singleton;

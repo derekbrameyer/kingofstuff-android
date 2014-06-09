@@ -1,4 +1,4 @@
-package com.doomonafireball.kingofstuff.android.widget;
+package com.doomonafireball.kingofbs.android.widget;
 
 import android.content.Context;
 import android.text.Html;
@@ -10,8 +10,6 @@ import android.widget.TextView;
 import com.doomonafireball.kingofstuff.android.R;
 
 import java.util.Random;
-
-import oak.util.OakUtils;
 
 /**
  * Created by derek on 6/5/14.

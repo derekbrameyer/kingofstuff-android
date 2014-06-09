@@ -1,12 +1,11 @@
-package com.doomonafireball.kingofstuff.android;
+package com.doomonafireball.kingofbs.android;
 
 import android.app.Application;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.util.Log;
 
-import com.doomonafireball.kingofstuff.android.dagger.AppModule;
-import com.doomonafireball.kingofstuff.android.dagger.IObjectGraph;
+import com.doomonafireball.kingofbs.android.dagger.AppModule;
 
 import javax.inject.Inject;
 
