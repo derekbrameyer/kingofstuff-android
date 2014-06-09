@@ -12,11 +12,10 @@
         android:paddingBottom="@dimen/default_padding">
 
         <oak.svg.AnimatedSvgView
-            style="@style/MatchWidth"
             android:id="@+id/animated_svg_view"
-            android:layout_centerInParent="true"
-            android:layout_marginLeft="@dimen/animated_svg_view_padding"
-            android:layout_marginRight="@dimen/animated_svg_view_padding"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
             oak:oakSvgImageSizeX="1080"
             oak:oakSvgImageSizeY="1299" />
 

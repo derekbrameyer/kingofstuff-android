@@ -8,6 +8,11 @@
 
     <style name="ActionBarStyle" parent="@android:style/Widget.Holo.ActionBar.Solid">
         <item name="android:displayOptions">showTitle</item>
+        <item name="android:titleTextStyle">@style/KingOfBsTitleTextStyle</item>
+    </style>
+
+    <style name="KingOfBsTitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#222222</item>
     </style>
 
     <style name="Overflow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
