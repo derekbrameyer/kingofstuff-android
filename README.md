@@ -4,7 +4,7 @@
 </a>
 
 
-# [Hacker Swiper](http://derekbrameyer.github.io/hackerswiper-android)
+# [King of B.S.](http://derekbrameyer.github.io/kingofstuff-android)
 
 An open-source Android app that fetches random articles from Wikipedia.
 
