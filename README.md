@@ -1,10 +1,9 @@
+# [King of B.S.](http://derekbrameyer.github.io/kingofstuff-android)
+
 <a href="https://play.google.com/store/apps/details?id=com.doomonafireball.kingofbs.android">
   <img alt="King of B.S. on Google Play"
          src="http://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
 </a>
-
-
-# [King of B.S.](http://derekbrameyer.github.io/kingofstuff-android)
 
 An open-source Android app that fetches random articles from Wikipedia.
 
